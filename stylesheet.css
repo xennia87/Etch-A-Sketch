@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+  }
+  
+.grid {
+    display: inline-block;
+    background-color: aqua;
+}
